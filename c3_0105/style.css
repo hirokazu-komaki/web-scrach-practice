@@ -1,0 +1,45 @@
+@charset "UTF-8";
+body {
+    background-color: blanchedalmond;
+}
+
+html {
+    font-size: 100%;
+}
+
+h1 {
+    color: cornflowerblue;
+    font-size: 3rem;
+    font-family: serif;
+}
+
+h2 {
+    font-size: 20px;
+    font-family: "游ゴシック体", "Yu Gothic", YuGothic, sans-serif;
+}
+/* p {
+    font-size: 20px;
+} */
+
+/* div p {
+    color: red;
+    font-size: 30px;
+    font-family: "ヒラギノ丸ゴ Pro W4", "Hiragino Maru Gothic Pro", sans-serif;
+    font-weight: 100;
+} */
+
+.sample1 {
+    color: blue;
+    line-height: 1;
+    text-align: right;
+}
+.sample2 {
+    color: mediumslateblue;
+    line-height: 1.7;
+    text-align: center;
+}
+.sample3 {
+    color: black;
+    line-height: 2.5;
+    text-align: justify;
+}
