@@ -14,4 +14,15 @@ h3{
 
 body {
     background-color: cadetblue;
+    background-image: url(../images/mizutama.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 30px 80px;
+    /* min-width: 100%;
+    height: 500px; */
+}
+
+div {
+    background: #b0615b url(../images/coffe.png) no-repeat center bottom/cover;
 }
