@@ -1,0 +1,17 @@
+h1 {
+    font-family: 'Raleway', sans-serif;
+    color: #b0615b;
+    background-color: cornsilk;
+}
+
+h2 {
+    color: rgb(100,150,40);
+}
+
+h3{
+    color: rgba(20, 36, 4, 0.5)
+}
+
+body {
+    background-color: cadetblue;
+}
