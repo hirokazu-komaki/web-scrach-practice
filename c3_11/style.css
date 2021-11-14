@@ -1,0 +1,11 @@
+p {
+    border-width: thin;
+    border-style: solid;
+    border-color: crimson blue greenyellow black;
+}
+
+div {
+    /* border-width: 1px 2px 3px 4px;
+    border-style: solid; */
+    border-top: 5px tomato dotted;
+}

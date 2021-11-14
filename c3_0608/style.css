@@ -1,0 +1,28 @@
+h1 {
+    font-family: 'Raleway', sans-serif;
+    color: #b0615b;
+    background-color: cornsilk;
+}
+
+h2 {
+    color: rgb(100,150,40);
+}
+
+h3{
+    color: rgba(20, 36, 4, 0.5)
+}
+
+body {
+    background-color: cadetblue;
+    background-image: url(../images/mizutama.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 30px 80px;
+    /* min-width: 100%;
+    height: 500px; */
+}
+
+div {
+    background: #b0615b url(../images/coffe.png) no-repeat center bottom/cover;
+}
