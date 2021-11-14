@@ -1,0 +1,32 @@
+p {
+    color: cornflowerblue;
+}
+
+.blue {
+    color: darkblue;
+}
+
+#orange {
+    color: orange;
+}
+
+p.green {
+    color: green;
+}
+
+#red {
+    color: red;
+}
+
+.yellow {
+    color: yellowgreen;
+}
+
+.hi {
+    color: tomato;
+}
+
+.hello {
+    color: turquoise;
+}
+
